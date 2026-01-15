@@ -62,14 +62,19 @@ Start Apache
 
 Start MySQL
 
-Import the database:
+**🗄️ Database Setup**
+Database Name: cancersupport
 
-Open http://localhost/phpmyadmin
+Open phpMyAdmin
 
-Create a database
+Create a database named:
 
-Import the provided .sql file
+cancersupport
 
-Open in browser:
+Import the file:
+
+/database/cancersupport.sql
+
+**Open in browser:**
 
 http://localhost/cancer-care-support-system
